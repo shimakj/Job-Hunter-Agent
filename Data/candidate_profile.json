@@ -1,0 +1,72 @@
+{
+  "skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Tableau",
+    "Power BI",
+    "Data Analysis",
+    "Statistics",
+    "Machine Learning basics",
+    "Git",
+    "GitHub"
+  ],
+
+  "languages": {
+    "Persian": "Native",
+    "English": "Advanced",
+    "German": "B2"
+  },
+
+  "education": [
+    "Data Analytics"
+  ],
+
+  "preferred_fields": [
+    "Data Analysis",
+    "Research",
+    "AI",
+    "Data Journalism",
+    "Computational Social Science"
+  ],
+
+  "preferred_work": {
+    "remote": {
+      "accepted": true,
+      "location_restriction": "none"
+    },
+    "hybrid": {
+      "accepted": true,
+      "location_restriction": "Berlin or within approximately 2 hours driving or 40 km radius distance from Berlin"
+    },
+    "onsite": {
+      "accepted": true,
+      "location_restriction": "Berlin only"
+    },
+    "part_time": true
+  },
+
+  "location": "Germany",
+
+  "hard_constraints": {
+    "maximum_german_level": "B2",
+    "requires_legal_work_eligibility": true
+  },
+
+  "scoring_system": {
+    "weights": {
+      "skills_experience": 30,
+      "work_conditions_hours": 25,
+      "career_interest": 20,
+      "language_requirements": 15,
+      "location_remote": 10
+    },
+    "score_ranges": {
+      "90-100": "Excellent match",
+      "75-89": "Good match",
+      "60-74": "Possible",
+      "40-59": "Weak match",
+      "0-39": "Reject"
+    }
+  }
+}
